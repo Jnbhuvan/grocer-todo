@@ -44,9 +44,7 @@ export default function RootLayout({
           <Navbar />
         </header>
 
-        <main className="border-b-emerald-800">
-          {children}
-        </main>
+        <main className="border-b-emerald-800">{children}</main>
 
         <footer>
           <Footer />
