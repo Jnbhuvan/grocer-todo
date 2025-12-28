@@ -39,12 +39,7 @@ To run this project locally, follow these steps:
 2. **Install dependencies**
 
 bash
-  npm install
-  # or
-      yarn install
-  # or
-      pnpm install
-
+``` npm install```
 3.**Set up environment variables**
 Create a .env.local file in the root directory and add your MongoDB connection string:
 
@@ -66,13 +61,13 @@ Navigate to http://localhost:3000 to see the application in action.
 7.**🤝 Contributing**
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
-**👤 Author**
-**Bhuvan J N**
+##👤 Author
+##Bhuvan J N
 (Jainag Bhuvan)
 
 GitHub: @Jnbhuvan
 
-🙏 Acknowledgments
+##🙏 Acknowledgments
 Next.js - The React framework for production
 
 Vercel - For seamless deployment
