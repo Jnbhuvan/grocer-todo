@@ -61,13 +61,13 @@ Navigate to http://localhost:3000 to see the application in action.
 7.**🤝 Contributing**
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
-##👤 Author
-##Bhuvan J N
+**<h2>👤 Author </h2>**
+<h3>Bhuvan J N</h3>
 (Jainag Bhuvan)
 
 GitHub: @Jnbhuvan
 
-##🙏 Acknowledgments
+**🙏 Acknowledgments**
 Next.js - The React framework for production
 
 Vercel - For seamless deployment
@@ -75,6 +75,8 @@ Vercel - For seamless deployment
 MongoDB Atlas - For cloud database services
 
 Tailwind CSS - For utility-first CSS styling
+
+**Thank You**
 
 
 
