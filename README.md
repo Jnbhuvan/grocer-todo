@@ -60,6 +60,7 @@ npm run dev
 Navigate to http://localhost:3000 to see the application in action.
 
 6.**Folder Structure**
+<br>
 <img width="348" height="801" alt="image" src="https://github.com/user-attachments/assets/919a0108-4bae-4493-98c5-08fbe8d5571e" />
 <br>
 7.**🤝 Contributing**
