@@ -1,6 +1,6 @@
-<img width="348" height="801" alt="image" src="https://github.com/user-attachments/assets/365b13ef-406d-4767-a8ed-5ddd10a951d3" /># Grocer Todo - Groceries List Manager
+<h1> Grocer Todo - Groceries List Manager</h1>
 
-A modern, full-stack web application for managing your grocery list. Built with Next.js and deployed on Vercel, this app allows you to seamlessly add, view, and manage your grocery items in real-time.
+**A modern, full-stack web application for managing your grocery list. Built with Next.js and deployed on Vercel, this app allows you to seamlessly add, view, and manage your grocery items in real-time.**
 
 <img width="1909" height="885" alt="image" src="https://github.com/user-attachments/assets/4c808093-cdc5-48f3-a5f3-cbb34a3b23d6" />
 
@@ -61,7 +61,7 @@ Navigate to http://localhost:3000 to see the application in action.
 
 6.**Folder Structure**
 <img width="348" height="801" alt="image" src="https://github.com/user-attachments/assets/919a0108-4bae-4493-98c5-08fbe8d5571e" />
-
+<br>
 7.**🤝 Contributing**
 Contributions, issues, and feature requests are welcome! Feel free to check the issues page if you want to contribute.
 
